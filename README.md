@@ -1,2 +1,2 @@
-# dmitrybuchelatti.github.io
+# Dmitry Buchelatti
 My public site
